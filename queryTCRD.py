@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-tcrd.py: Queryng the Target Central Resource Database (TCRD).
+queryTCRD.py: Queryng the Target Central Resource Database (TCRD).
 """
 
 __author__ = "Maria J. Falaguera"
