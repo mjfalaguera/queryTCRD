@@ -1,10 +1,10 @@
 # queryTCRD
 
-queryTCRD is a python module with functions to query the Target Central Resource Database (TCRD).
+queryTCRD is an (unoficial) python module with functions to query the Target Central Resource Database (TCRD).
 
 ### Usage
 1) Download and install the latest SQL version of the TCRD from http://juniper.health.unm.edu/tcrd/download/.
-2) Edit your database details in the first rows of the tcrd.py script.
+2) Edit your database details in the first rows of the queryTCRD.py script.
 3) Install pymysql package.
 3) Import queryTCRD.py as a module in your scripts and start playing!
 
